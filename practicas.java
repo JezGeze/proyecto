@@ -8,7 +8,7 @@ private JButton boton1, boton2;
 		public practicas(){
 			setLayout(null);
 
-			boton1 = new JButton("Mensaje");
+			boton1 = new JButton("Mensajebotones");
 			boton1.setBounds(150,150,100,30);
 			add(boton1);
 			boton1.addActionListener(this);
